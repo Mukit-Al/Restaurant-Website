@@ -6,6 +6,8 @@ A modern, visually stunning restaurant website for a fictional luxury restaurant
 
 ## 🌟 Live Demo
 
+**View the live website:** https://restaurant-website.vercel.app
+
 To view the live website, deploy it using one of the options below or run it locally.
 
 ## ✨ Features
